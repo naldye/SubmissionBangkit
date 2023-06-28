@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">githubUser</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="followers_count">%d Followers</string>
+    <string name="following_count">%d Following</string>
+    <string name="search_bar">Search</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
